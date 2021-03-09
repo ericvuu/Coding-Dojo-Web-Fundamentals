@@ -1,0 +1,14 @@
+#container{
+  width: 970px;
+  margin: 0px auto;
+}
+
+.row-1, .row-2 {
+  display: flexbox;
+}
+
+.img-box {
+  display: inline-block;
+  width: 20%;
+  border: 5px solid rgb(0, 0, 119);
+}

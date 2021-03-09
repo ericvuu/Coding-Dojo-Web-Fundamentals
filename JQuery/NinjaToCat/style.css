@@ -1,0 +1,11 @@
+#container {
+  display: flex;
+  flex-direction: column;
+  width: 190px;
+  margin: 0px auto;
+}
+
+img {
+  display: inline-block;
+  margin-top: 5px;
+}

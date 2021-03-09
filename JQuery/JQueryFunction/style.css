@@ -1,0 +1,52 @@
+.container{
+  width: 970px;
+  margin: 0px auto;
+  height: 100%;
+  background-color: slategrey;
+  text-align: center;
+}
+
+section {
+  padding-top: 40px;
+  min-height: 180px;
+}
+
+
+.button-style{
+  padding: 10px;
+  background-color: rgb(7, 167, 7);
+  color: floralwhite;
+  border-radius: 5px;
+  box-shadow: 2px 1px black;
+  margin-right: 18px;
+}
+
+h2 {
+  font-family: 'Roboto', sans-serif;
+  font-size: 32px;
+  margin-bottom: 5px;
+}
+
+hr {
+  width: 900px;
+  height: 5px;
+  background-color: white;
+}
+
+p {
+  padding-bottom: 20px;
+  font-size: 28px;
+}
+
+img {
+  height: 300px;
+}
+
+.bigger{
+  font-size: 35px;
+  font-weight: bold;
+}
+
+li {
+  list-style-type: none;
+}
